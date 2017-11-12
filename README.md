@@ -1,6 +1,12 @@
 # Ethereum - Everything you need to know
 
-# Setup
+## ToDo's
+
+* Fix out-of-gas in Smart Contract
+* Create/Improve web-interface to play tic tac toe
+* Integrate Metamask support
+
+## Setup
 
 We will be using a VM running Ubuntu 16.04 with WMware Workstation Player
 
