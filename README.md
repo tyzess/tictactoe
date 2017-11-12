@@ -60,7 +60,16 @@ Configure your npm project
 
 Start the full client simulator
 
-> testrpc
+> testrpc -l 30000000
 
 Head with your browser of choice to 'remix.ethereum.org'  
-As Environment choose 'Web3 Provider' and connect to 'localhost:8545'
+As Environment choose 'Web3 Provider' and connect to 'localhost:8545'  
+Copy the smart contract into the editor  
+Compile it (ensure to uncheck 'Autocompile')  
+Click on create on the 'Run'-tab
+
+
+## Interesting links (Ethereum/Smart Contract/Solidity)
+
+* [SilentCicero/TicTacToe](https://github.com/SilentCicero/Ethereum/tree/master/TicTacToe)
+* [Solidity Documentation](https://solidity.readthedocs.io/en/develop/)
